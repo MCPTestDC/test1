@@ -1,0 +1,1 @@
+web: PYTHONPATH=src:/.ce/tmp/layers/paketo-buildpacks_pip-install/packages/lib/python3.10/site-packages uvicorn openapi_server.main:app --host 0.0.0.0 --port 8080
