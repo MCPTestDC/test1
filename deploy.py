@@ -33,6 +33,7 @@ IMAGE_PATH = None
 BUILD_RUN_NAME = None
 APPLICATION_NAME = None
 
+#test
 
 def log_config():
   global LOGGER
